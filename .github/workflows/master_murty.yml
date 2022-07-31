@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'murty'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E678FD19CBB411E9E2C2A82BB58B00A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_580BFDD2A7EA49FCBF131C1E42DE9898 }}
           package: .
